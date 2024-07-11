@@ -1,30 +1,585 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "f248",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "d41e",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "a574",
+      "name": "Steve",
+      "email": "undefined"
+    },
+    {
+      "id": "1b12",
+      "name": "Steve",
+      "email": "undefined"
+    },
+    {
+      "id": "fd2d",
+      "name": "Steve",
+      "email": "undefined"
+    },
+    {
+      "id": "fab7",
+      "name": "Steve",
+      "email": "undefined"
+    },
+    {
+      "id": "3495",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "52c8",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "6b2f",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "2516",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "a705",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "31ec",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "d12e",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "95d0",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "48dc",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "0a3a",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "df93",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "e394",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "74e6",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "ae2a",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "810c",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "5b9a",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "7d1a",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "5901",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "266e",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "c724",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "ce91",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "74a7",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "87dc",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "01b0",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "b8d2",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "f28b",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    },
+    {
+      "id": "bd7c",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "5b1c",
+      "name": "",
+      "email": "undefined"
+    },
+    {
+      "id": "0f97",
+      "name": "$",
+      "email": "undefined"
+    },
+    {
+      "id": "feea",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "5406",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "3b83",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "614a",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "da74",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "1e62",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "2d24",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "6a60",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "5fc0",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "5176",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "1728",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "aea4",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "f734",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "1270",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "b660",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "8b35",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "1e65",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "6a8a",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "759f",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "d085",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "b882",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "7c14",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "b7e3",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "a170",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "8365",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "a930",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "8757",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "aaf0",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "2ea6",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "115d",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "387c",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "72dd",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "3a42",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "bc6f",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "af92",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "7f02",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "44ec",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "a42b",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "c80d",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "15fc",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "d1fd",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "299d",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "4c34",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "ef6f",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "4439",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "e7ec",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "22d5",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "950c",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "534b",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "9f3c",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "f8cb",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "c870",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "238d",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "6687",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "2de6",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "a889",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "022d",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "c8c3",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "6d43",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "7033",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "590d",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "fa4d",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "6db1",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "6c9e",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "2658",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "54d3",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "e265",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "a701",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "09c6",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "67cf",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "1ea4",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "15d7",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "e7bc",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "256f",
+      "name": "undefined",
+      "email": "undefined"
+    },
+    {
+      "id": "dde1",
+      "name": "undefined",
+      "email": "undefined"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
